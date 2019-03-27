@@ -6,4 +6,4 @@ test('William', '25')
 def spam():
     eggs = 31337
 spam()
-print(eggs)
+
