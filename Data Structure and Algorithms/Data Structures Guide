@@ -4,6 +4,10 @@
 #                           LINER DATA STRUCTURES
 # These are the data structures which store the data elements in a sequential manner.
 # Array: It is a sequential arrangement of data elements paired with the index of the data element.
+  Array is the most common type of Data Structure
+  Each item stored in an Array is called an Element
+  Each located in an array has a numerical index with relates back to that element
+
 # Linked List: Each data element contains a link to another element along with the data present in it.
 # Stack: It is a data structure which follows only to specific order of operation. LIFO(last in First Out) or FILO(First in Last Out).
 # Queue: It is similar to Stack but the order of operation is only FIFO(First In First Out).

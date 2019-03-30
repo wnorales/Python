@@ -1,0 +1,15 @@
+Now, to make HTTP requests in python, we can use several HTTP libraries like:
+httplib
+urllib
+requests
+The most elegant and simplest of above listed libraries is Requests.
+
+
+The response of a GET request often has some valuable information, known as a payload, in the message body.
+Using the attributes and methods of Response, you can view the payload in a variety of different formats.
+
+Headers
+The response headers can give you useful information, such as the content type of the response payload and a time limit on how long to cache the response.
+To view these headers, access .headers:
+
+Google Maps API Key = API_Key = 'AIzaSyCitRg8YhJ_uhZfXGA2gLu4pNJuMRPCZeg'

@@ -1,10 +1,3 @@
-# Array is the most common type of Data Structure
-#   Each item stored in an Array is called an Element
-#    Each located in an array has a numerical index with relates back to that element
-
-# Array is created in Python by importing array module to the python program. Then the array is declared as shown below.
-# Typecode are the codes that are used to define the type of value the array will hold. Some common typecodes used are:
-
 from array import *
 
 array1 = array('i', [10, 20, 30, 40, 50, 80])
