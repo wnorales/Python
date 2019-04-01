@@ -28,3 +28,4 @@ elif Person1_Random != Person2_Random:
     result(Person1_Random, Person2_Random)
 
 """Comments"""
+# The above function is ran unless its hits the elif. The elif decides what the output is.
