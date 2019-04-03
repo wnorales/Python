@@ -1,4 +1,4 @@
-import requests # This is another type of API package
+import requests  # This is another type of API package
 
 r = requests.get('https://github.com/wnorales')
 if r.status_code == 200:

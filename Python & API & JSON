@@ -12,4 +12,7 @@ Headers
 The response headers can give you useful information, such as the content type of the response payload and a time limit on how long to cache the response.
 To view these headers, access .headers:
 
-Google Maps API Key = API_Key = 'AIzaSyCitRg8YhJ_uhZfXGA2gLu4pNJuMRPCZeg'
+
+We get data back in JSON format:
+JSON stands for JavaScript Object Notation and is a lightweight format for storing and transporting data.
+JSON is often used when data is sent from a server to a web page,JSON is "self-describing" and easy to understand

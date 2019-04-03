@@ -1,4 +1,4 @@
-import urllib.request # This is one type of API package
+import urllib.request  # This is one type of API package
 
 from urllib.request import urlopen
 
@@ -13,8 +13,5 @@ data_content = response.read()
 print(data_content)
 
 
-"""Example 2"""
-url2 = urllib.request.urlopen("https://github.com/users/wnorales")
-url2Read = url2.read()
-print(url2Read)
+
 
