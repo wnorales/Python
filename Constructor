@@ -1,0 +1,3 @@
+list() creates a list in Python
+Example list(range(1,13)) + list(range(14,400)) - Prints a list of numbers from 1-400, skips 14
+

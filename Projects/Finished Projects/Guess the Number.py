@@ -5,8 +5,8 @@ game_running = True
 
 while game_running:
     # Greet the user to our game
-    print()
-    print("I'm thinking of a number between 1 and 10, can you guess it?")
+
+    print("I'm thinking of a number between 1 and 10, can you guess it? \n")
 
     # Have the program pick a random number between 1 and 10
     secret_number = random.randint(0, 10)

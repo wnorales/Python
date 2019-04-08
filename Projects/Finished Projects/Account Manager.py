@@ -39,7 +39,8 @@ for y in range(1):
 
 print('Your account number is ' + str(FirstPart_AccountNumber), str(SecondPart_AccountNumber), str(ThirdPart_AccountNumber))
 
-print('Would you like to save your account information \n')
+print('Would you like to save your account information Yes or No\n')
+Saving = input()
 
 
 #Name = First_Name + ' ' + Last_Name + ' Your card numbers are ' + str(A),  str(B),  str(C),  str(D) + 'and your account number is ' + str(FirstPart_AccountNumber), str(SecondPart_AccountNumber), str(ThirdPart_AccountNumber)
