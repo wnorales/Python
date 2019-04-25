@@ -4,8 +4,8 @@ def hello():
      print('Howdy!!!')
      print('Hello there.')
 hello()
-hello()
-hello()
+
+
 
 def getanswer(answernumber):
     if answernumber == 1:
@@ -28,6 +28,6 @@ def getanswer(answernumber):
       return 'Very doubtful'
 
 r = random.randint(1, 9)  #This will select a random number from 1-9
-fortune = getanswer(r)  #This will give  answerNumber the value of a random number.
+fortune = getanswer(r)  #This will give answerNumber the value of a random number.
 print(fortune)  #This will print whatever options is selected
 

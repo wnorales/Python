@@ -10,3 +10,10 @@ MagicNumber = 60
 for n in range(100):
     if n is MagicNumber:
         print("The magic number is " + str(n))
+
+
+"""This just an example of a regular for loop"""
+List2 = ['917-231-4287', '631-639-9604', '718-474-6892', '552-987-5014']
+
+for n in List2:
+    print(n)

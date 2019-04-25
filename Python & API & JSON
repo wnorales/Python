@@ -8,6 +8,16 @@ The most elegant and simplest of above listed libraries is Requests.
 The response of a GET request often has some valuable information, known as a payload, in the message body.
 Using the attributes and methods of Response, you can view the payload in a variety of different formats.
 
+Requests was developed with a few PEP 20 idioms in mind.
+
+Beautiful is better than ugly.
+Explicit is better than implicit.
+Simple is better than complex.
+Complex is better than complicated.
+Readability counts.
+
+
+
 Headers
 The response headers can give you useful information, such as the content type of the response payload and a time limit on how long to cache the response.
 To view these headers, access .headers:

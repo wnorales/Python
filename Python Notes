@@ -23,7 +23,9 @@ istitle() returns True if the string consists only of words that begin with an u
 List of other methods can be found at https://docs.python.org/2.4/lib/string-methods.html
 
 
-
+Functions
+- You cant' use the return keyword outside a function.
+When we call functions we need to use the function name as well as the value or parameter that will be associated with it.
 
 
 
